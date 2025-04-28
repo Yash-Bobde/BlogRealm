@@ -2,7 +2,7 @@
 
 **BlogRealm** is a modern blog website built using React, Redux, and Vite. It supports rich text editing with TinyMCE and uses Appwrite for backend services. The project is styled using Tailwind CSS, ensuring a sleek and responsive user interface.
 
-[Live Demo](https://blog-realm.vercel.app/)
+[Live Demo](blog-realm-orcin.vercel.app)
 
 ## Demo Account
 - admin@gmail.com
